@@ -10,7 +10,7 @@ _Latest first_
 
 - Filippo Volpe
 
-![Frullino of Open Source](./docs/frullino.webm)
+![Frullino of Open Source](./docs/frullino.gif)
 
 ## Features
 
