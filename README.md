@@ -1,12 +1,16 @@
 # BMS Monitor
 
-Slave BMS module to monitor cells voltages and temperatures.
+Slave BMS module to monitor 24s cells voltages and temperatures.
+
+![3D render](./docs/board_render.png)
 
 ## Contributors
 
 _Latest first_
 
 - Filippo Volpe
+
+![Frullino of Open Source](./docs/frullino.webm)
 
 ## Features
 
