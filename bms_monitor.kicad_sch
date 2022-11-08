@@ -6,9 +6,8 @@
 
   (title_block
     (title "BMS Monitor")
-    (date "2022-10-25")
-    (company "E-Agle TRT")
-    (comment 1 "Filippo Volpe")
+    (date "2022-11-08")
+    (company "Filippo Volpe")
   )
 
   (lib_symbols

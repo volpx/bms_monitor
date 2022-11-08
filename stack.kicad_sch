@@ -6,8 +6,7 @@
 
   (title_block
     (title "BMS Monitor")
-    (company "E-Agle TRT")
-    (comment 1 "Filippo Volpe")
+    (company "Filippo Volpe")
   )
 
   (lib_symbols
