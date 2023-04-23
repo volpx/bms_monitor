@@ -31,9 +31,9 @@ _Latest first_
 
 ### LTC6811 -1 vs -2
 
-For use with "-1" version the isoSPI link must be daisy chained, hence connecting the master of PORTB to the slave of PORTA of the next IC in the chain.
+For use with "-1" version the isoSPI link must be daisy chained, hence connecting the master of PORTB to the slave of PORTA of the next IC in the chain. Populate R5 and R6, don't populate R30 R31.
 
-For use with the "-2" version only populate the slave PORTA of each section and connect them in parallel. Then set the address of each section using the solder jumpers.
+For use with the "-2" version only populate the slave PORTA of each section and connect them in parallel. Then set the address of each section using the solder jumpers. Populate R30 and R31, don't populate R5 R6.
 
 ### 24S monitor
 
