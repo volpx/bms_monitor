@@ -542,6 +542,10 @@
       {
         "netclass": "Power",
         "pattern": "Net-(Qda9-Pad3)"
+      },
+      {
+        "netclass": "100V clearance",
+        "pattern": "/StackB/PSU_INPUT"
       }
     ]
   },
